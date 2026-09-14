@@ -1,0 +1,11 @@
+{
+  "generator": "gen-art",
+  "generator_version": "0.1.0",
+  "preset": "verdant_veil",
+  "seed": 11,
+  "dimensions": "1600x800",
+  "duration_seconds": 15,
+  "fps": 24,
+  "frame_count": 360,
+  "motion_range": 0.18
+}
