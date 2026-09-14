@@ -1,3 +1,0 @@
-[console_scripts]
-gen-art = gen_art.render:main
-gen-art-animate = gen_art.animate:main
